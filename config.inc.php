@@ -2243,3 +2243,7 @@ $g_event_cache = array();
 $g_plugin_config_cache = array();
 
 // ----- END OF FILE --------------------------------------------------------------------
+$tlCfg->dbhost = 'testlink-db.cf0mku08qdyy.us-east-1.rds.amazonaws.com';//change with your details
+$tlCfg->dbname = 'testlink_psql_db';//change with your details
+$tlCfg->dbuser = 'postgres';//change with your details
+$tlCfg->dbpass = 'TTT2T6I0Di6F';//change with your details
